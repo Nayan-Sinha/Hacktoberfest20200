@@ -38,4 +38,4 @@ N = [[1, 1, 1, 1],
 # Call matrix_multiplication function 
 matrix_multiplication(M,N) 
 
-# This code is contributed by Santanu 
+# This code is contributed by Apoorv.
